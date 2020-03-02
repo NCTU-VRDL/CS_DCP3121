@@ -27,6 +27,6 @@ Please contact instructor Yen-Yu Lin at lin@cs.nctu.edu.tw or TA Jimmy Yang at d
 |   12 |  05/20, 05/22   | Neural Networks and Deep Learning                                                            |**HW3 due, HW4 announce**                                          |   
 |   13 |  05/27, 05/29   | Convolutional Neural Networks (CNN)                                                  |                         |   
 |   14 |  06/03, 06/05   | Representative CNN Models                                                               |        **HW4 due**                                    |   
-|   15 |  06/17, 06/19  | Deep Autoencoder (DAE) and Generative Adversarial Networks (GAN)                       |                                        |   
-|   16 |  06/24, 06/26   | Final exam                                                             |                               |   
-|   17 |  06/31, 07/02   | Guest lecture                                                             |                                          |  
+|   15 |  06/10, 06/12  | Deep Autoencoder (DAE) and Generative Adversarial Networks (GAN)                       |                                        |   
+|   16 |  06/17, 06/19    | Final exam                                                             |                               |   
+|   17 |  06/24, 06/26   | Guest lecture                                                             |                                          |  
