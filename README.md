@@ -7,9 +7,9 @@ Wednesday 1:30 pm ~ 3:30 pm at EC118
 
 Please contact instructor Yen-Yu Lin at lin@cs.nctu.edu.tw or TA Jimmy Yang at d08922002@ntu.edu.tw, TA Chung-Hsuan Cheng at scott19880525@gmail.com
 ## Grading Policy
-- 4 homework assignments: 48%, see [HW READEME](https://github.com/NCTU-VRDL/CS_DCP3121/blob/master/HW_README.MD)
-- Midtern exam: 26%
-- Final exam: 26%
+- 4 homework assignments: 40%, see [HW READEME](https://github.com/NCTU-VRDL/CS_DCP3121/blob/master/HW_README.MD)
+- Midtern exam: 30%
+- Final exam: 30%
 ## Syllabus
 | Week | Date     |Topic                                                                                      | Remarks                                  |
 | ---- | -------- | ------------------------------------------------------------------------------------------| -----------------------------------------|    
