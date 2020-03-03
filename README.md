@@ -16,8 +16,8 @@ Please contact instructor Yen-Yu Lin at lin@cs.nctu.edu.tw or TA Jimmy Yang at d
 |   1  |  03/04, 03/06   | Introduction                                                        |                                          |
 |   2  |  03/11, 03/13   | Linear Model for Regression                                           |                                          |
 |   3  |  03/18, 03/20   | Linear Model for Classification                                                       | **HW1 anoounce**                        |
-|   4  |  03/25, 03/27   | Subspace Learning                                                         |                                          |
-|   5  |  04/01, 04/03   | Manifold Learning                                                         |   **HW1 due**                                       |
+|   4  |  03/25, 03/27   | Neural Networks                                                         |                                          |
+|   5  |  04/01, 04/03   | Dimensionality Reduction                                                         |   **HW1 due**                                       |
 |   6  |  04/08, 04/10   | Kernel Method I                                                |                 |
 |   7  |  04/15, 04/17   | Kernel Method II                                                |            **HW2 announce**             |
 |   8  |  04/22, 04/24   | Ensemble Method I                                                                      |                                |
