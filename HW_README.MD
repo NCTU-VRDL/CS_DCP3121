@@ -9,9 +9,7 @@ In this course you will practice implementing and training machine learning mode
 We will deduct a late penalty of 20% per additional late day.
 
 ## Homework Grading Policy
-- Model performance (70%): You can get at least 56% (70%x0.8) by scoring over the baseline (on Kaggle learderbaord) for each HW. Rank top 3 on leaderboard will be invited to make a presentation to share your methodology and get bonus on your final score
-- Coding (10%): Python coding style should follow [PEP8](https://realpython.com/python-pep8/) for readability and your results should be reproducible.
-- Reports (20%): Well-document the data summary, methodology or any findings in this homework
+You should submit 1) Code (.py/.ipynb) 2) Reports (**PDF format**) for every homework on the E3-system. Please follow the rules of each homework such as implementing algorithm by only numpy or writing Python code with PEP8 coding style.
 
 ## GPU Resources
 You may need GPU to accelerate the training of deep nenural network. We provide several free GPU resources for you, some of resources need registration and limited by usage.
