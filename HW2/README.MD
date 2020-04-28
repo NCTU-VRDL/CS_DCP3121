@@ -1,4 +1,4 @@
-## HW2: Linear Discriminant Analysis, due date: May 8, 23:59
+## HW2: Linear Discriminant Analysis, due date: May １, 23:59
 
 ### Goals
 In hw2, you need to implement Fisher’s linear discriminant by using only numpy, then train your implemented model by the provided dataset and test the performance with testing data
