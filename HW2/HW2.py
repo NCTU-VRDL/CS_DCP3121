@@ -65,8 +65,7 @@ acc = accuracy(y_test, y_pred)
 print(f"Accuracy of test-set {acc}")
 
 
-# ## 6. Plot the 1) projection line 2) Decision boundary and colorize the data with each class
-# ### the result should be look like this [image](https://i2.kknews.cc/SIG=fe79fb/26q1000on37o7874879n.jpg) (Red line: projection line, Green line: Decision boundary)
+# ## 6. Plot the 1) best projection line on the training data and show the slope and intercept on the title (you can choose any value of intercept for better visualization) 2) colorize the data with each class 3) project all data points on your projection line. Your result should look like [this image](https://i.imgur.com/tubMQpw.jpg)
 
 
 
