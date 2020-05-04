@@ -21,8 +21,8 @@ Please contact instructor Yen-Yu Lin at lin@cs.nctu.edu.tw or TA Jimmy Yang at d
 |   6  |  04/08, 04/10   | Kernel Method I                                                |                 |
 |   7  |  04/15, 04/17   | Kernel Method II                                                |            **HW2 announce**             |
 |   8  |  04/22, 04/24   | Ensemble Method I                                                                      |                                |
-|   9  |  04/29, 05/01   | Midtern Exam                                                                     |                                          |    
-|   10 |  05/06, 05/08   | Ensemble Method II                                                                  |**HW2 due, HW3 announce**                                          |    
+|   9  |  04/29, 05/01   | Midtern Exam                                                                     |**W2 due**                                          |    
+|   10 |  05/06, 05/08   | Ensemble Method II                                                                  |**HW3 announce**                                          |    
 |   11 |  05/13, 05/15   | Clustering                                                              |  |    
 |   12 |  05/20, 05/22   | Neural Networks and Deep Learning                                                            |**HW3 due, HW4 announce**                                          |   
 |   13 |  05/27, 05/29   | Convolutional Neural Networks (CNN)                                                  |                         |   
