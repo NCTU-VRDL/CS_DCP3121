@@ -1,4 +1,4 @@
-## HW3: Decision Tree and Random Forest, due date: May 22, 23:59
+## HW4: Support Vector Machine, due date: June 12, 23:59
 
 ### Goals
 
